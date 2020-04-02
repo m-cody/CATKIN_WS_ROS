@@ -1,0 +1,8 @@
+prefix=/home/ros-student/catkin_ws/install
+
+Name: tiny_keyboard_reader
+Description: Description of tiny_keyboard_reader
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

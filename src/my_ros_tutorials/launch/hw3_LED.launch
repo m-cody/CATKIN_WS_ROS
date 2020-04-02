@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="my_ros_tutorials" type="hw3_led" name="hw3_led"/>
+    <param name="/led_color" type="double" value="3"/>
+    <include file="$(find tiny_keyboard_reader)/launch/keyboard_reader.launch"/>
+    <include file="$(find prizm_ros)/launch/prizm.launch"/>
+</launch>

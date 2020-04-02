@@ -1,0 +1,6 @@
+<launch>
+	<param name="/hw2_topic_pub_freq" type="double" value="1"/>
+	<node name="hw2_sub" pkg="my_ros_tutorials" type="hw2_sub" output="screen" launch-prefix="gnome-terminal -e"/>
+	<node name="hw2_pub" pkg="my_ros_tutorials" type="hw2_pub"/>
+	<node name="hw2_changer" pkg="my_ros_tutorials" type="hw2_changer"/>
+</launch>
