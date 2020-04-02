@@ -1,0 +1,20 @@
+<launch>
+    <!-- Launch file should:
+        - Launch any nodes or launch files to control the robot (prizm_control)
+        - Launch the simple_camera_publisher node using the camera_publisher.launch file
+        - Run the stop_on_white node
+    -->
+
+    <!-- YOUR CODE HERE -->
+    <group ns="camera_1">
+	<param name="~source" type="string" value="/dev/video0" />
+	<param name="~hflip" type="bool" value="false" />
+	<param name="~show_output" type="bool" value="true" />
+	<node name="cam_pub" pkg="simple_camera_publisher" type="cam_pub" output="screen" respawn="true" respawn_delay="10"/>
+    </group>
+
+	<node name="stop_on_white" pkg="stop_on_white" type="stop_on_white" output="screen" launch-prefix="gnome-terminal -e"  />
+	<node name="rqt" pkg="rqt_gui" type="rqt_gui" args="--perspective-file $(find stop_on_white)/rqt.perspective" />
+        <!--include file="$(find prizm_ros)/launch/twist_controller.launch" /-->
+
+</launch>

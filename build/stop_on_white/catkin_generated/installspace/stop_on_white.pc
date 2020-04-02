@@ -1,0 +1,8 @@
+prefix=/home/ros-student/catkin_ws/install
+
+Name: stop_on_white
+Description: Description of stop_on_white
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

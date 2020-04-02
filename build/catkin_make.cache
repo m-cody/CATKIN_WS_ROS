@@ -1,2 +1,2 @@
-my_ros_msgs:my_ros_tutorials:prizm-control-hw-m-cody:prizm_ros:tiny_keyboard_reader:turtle_ocean
+my_ros_msgs:my_ros_tutorials:prizm-control-hw-m-cody:prizm_ros:simple_camera_publisher:stop_on_white:tiny_keyboard_reader:turtle_ocean
 -DCATKIN_DEVEL_PREFIX=/home/ros-student/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros-student/catkin_ws/install -G Unix Makefiles

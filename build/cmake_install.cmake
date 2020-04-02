@@ -131,6 +131,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/ros-student/catkin_ws/build/prizm_ros/cmake_install.cmake")
   include("/home/ros-student/catkin_ws/build/tiny_keyboard_reader/cmake_install.cmake")
   include("/home/ros-student/catkin_ws/build/prizm-control-hw-m-cody/cmake_install.cmake")
+  include("/home/ros-student/catkin_ws/build/simple_camera_publisher/cmake_install.cmake")
+  include("/home/ros-student/catkin_ws/build/stop_on_white/cmake_install.cmake")
   include("/home/ros-student/catkin_ws/build/turtle_ocean/cmake_install.cmake")
 
 endif()

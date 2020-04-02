@@ -933,6 +933,188 @@ joy_control_node/fast:
 .PHONY : joy_control_node/fast
 
 #=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_eus
+
+# Build rule for target.
+sensor_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_eus
+.PHONY : sensor_msgs_generate_messages_eus
+
+# fast build rule for target.
+sensor_msgs_generate_messages_eus/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
+.PHONY : sensor_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_py
+
+# Build rule for target.
+sensor_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_py
+.PHONY : sensor_msgs_generate_messages_py
+
+# fast build rule for target.
+sensor_msgs_generate_messages_py/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+.PHONY : sensor_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_nodejs
+
+# Build rule for target.
+sensor_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_nodejs
+.PHONY : sensor_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+sensor_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+.PHONY : sensor_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_lisp
+
+# Build rule for target.
+sensor_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_lisp
+.PHONY : sensor_msgs_generate_messages_lisp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+.PHONY : sensor_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_cpp
+
+# Build rule for target.
+sensor_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_cpp
+.PHONY : sensor_msgs_generate_messages_cpp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+.PHONY : sensor_msgs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named cam_pub
+
+# Build rule for target.
+cam_pub: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 cam_pub
+.PHONY : cam_pub
+
+# fast build rule for target.
+cam_pub/fast:
+	$(MAKE) -f simple_camera_publisher/CMakeFiles/cam_pub.dir/build.make simple_camera_publisher/CMakeFiles/cam_pub.dir/build
+.PHONY : cam_pub/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_generate_messages_lisp
+
+# Build rule for target.
+dynamic_reconfigure_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_generate_messages_lisp
+.PHONY : dynamic_reconfigure_generate_messages_lisp
+
+# fast build rule for target.
+dynamic_reconfigure_generate_messages_lisp/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build
+.PHONY : dynamic_reconfigure_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_generate_messages_eus
+
+# Build rule for target.
+dynamic_reconfigure_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_generate_messages_eus
+.PHONY : dynamic_reconfigure_generate_messages_eus
+
+# fast build rule for target.
+dynamic_reconfigure_generate_messages_eus/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build
+.PHONY : dynamic_reconfigure_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_generate_messages_nodejs
+
+# Build rule for target.
+dynamic_reconfigure_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_generate_messages_nodejs
+.PHONY : dynamic_reconfigure_generate_messages_nodejs
+
+# fast build rule for target.
+dynamic_reconfigure_generate_messages_nodejs/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build
+.PHONY : dynamic_reconfigure_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_generate_messages_py
+
+# Build rule for target.
+dynamic_reconfigure_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_generate_messages_py
+.PHONY : dynamic_reconfigure_generate_messages_py
+
+# fast build rule for target.
+dynamic_reconfigure_generate_messages_py/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
+.PHONY : dynamic_reconfigure_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_gencfg
+
+# Build rule for target.
+dynamic_reconfigure_gencfg: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_gencfg
+.PHONY : dynamic_reconfigure_gencfg
+
+# fast build rule for target.
+dynamic_reconfigure_gencfg/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build
+.PHONY : dynamic_reconfigure_gencfg/fast
+
+#=============================================================================
+# Target rules for targets named stop_on_white_gencfg
+
+# Build rule for target.
+stop_on_white_gencfg: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white_gencfg
+.PHONY : stop_on_white_gencfg
+
+# fast build rule for target.
+stop_on_white_gencfg/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/build.make stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/build
+.PHONY : stop_on_white_gencfg/fast
+
+#=============================================================================
+# Target rules for targets named dynamic_reconfigure_generate_messages_cpp
+
+# Build rule for target.
+dynamic_reconfigure_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dynamic_reconfigure_generate_messages_cpp
+.PHONY : dynamic_reconfigure_generate_messages_cpp
+
+# fast build rule for target.
+dynamic_reconfigure_generate_messages_cpp/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build
+.PHONY : dynamic_reconfigure_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named stop_on_white
+
+# Build rule for target.
+stop_on_white: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white
+.PHONY : stop_on_white
+
+# fast build rule for target.
+stop_on_white/fast:
+	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white.dir/build.make stop_on_white/CMakeFiles/stop_on_white.dir/build
+.PHONY : stop_on_white/fast
+
+#=============================================================================
 # Target rules for targets named turtle0
 
 # Build rule for target.
@@ -1043,6 +1225,20 @@ help:
 	@echo "... twist_controller"
 	@echo "... prizm_control_node"
 	@echo "... joy_control_node"
+	@echo "... sensor_msgs_generate_messages_eus"
+	@echo "... sensor_msgs_generate_messages_py"
+	@echo "... sensor_msgs_generate_messages_nodejs"
+	@echo "... sensor_msgs_generate_messages_lisp"
+	@echo "... sensor_msgs_generate_messages_cpp"
+	@echo "... cam_pub"
+	@echo "... dynamic_reconfigure_generate_messages_lisp"
+	@echo "... dynamic_reconfigure_generate_messages_eus"
+	@echo "... dynamic_reconfigure_generate_messages_nodejs"
+	@echo "... dynamic_reconfigure_generate_messages_py"
+	@echo "... dynamic_reconfigure_gencfg"
+	@echo "... stop_on_white_gencfg"
+	@echo "... dynamic_reconfigure_generate_messages_cpp"
+	@echo "... stop_on_white"
 	@echo "... turtle0"
 	@echo "... input_xy_node"
 	@echo "... go2xy_node"
