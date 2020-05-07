@@ -1,0 +1,16 @@
+\subsubsection usage Usage
+\verbatim
+<node name="prizm_control" pkg="prizm_control" type="prizm_control">
+  <param name="mask_l_hue" type="double" value="0.0" />
+  <param name="mask_h_hue" type="double" value="255.0" />
+  <param name="mask_l_sat" type="double" value="0.0" />
+  <param name="mask_h_sat" type="double" value="255.0" />
+  <param name="mask_l_lum" type="double" value="0.0" />
+  <param name="mask_h_lum" type="double" value="255.0" />
+  <param name="mask_dilate" type="double" value="0.0" />
+  <param name="speed" type="double" value="0.0" />
+  <param name="use_median_blur" type="bool" value="True" />
+  <param name="median_blur_amount" type="int" value="3" />
+</node>
+\endverbatim
+

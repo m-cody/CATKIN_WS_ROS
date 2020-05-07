@@ -1,0 +1,8 @@
+prefix=/home/ros-student/catkin_ws/devel
+
+Name: speedometer
+Description: Description of speedometer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

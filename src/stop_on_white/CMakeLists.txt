@@ -35,9 +35,9 @@ include_directories(
 )
 
 # ADD {
-add_executable(stop_on_white src/stop_on_white.cpp)
-add_dependencies(stop_on_white ${PROJECT_NAME}_gencfg ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(stop_on_white ${catkin_LIBRARIES} ${OpenCV_LIBS})
+add_executable(stop_white src/stop_on_white.cpp)
+add_dependencies(stop_white ${PROJECT_NAME}_gencfg ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(stop_white ${catkin_LIBRARIES} ${OpenCV_LIBS})
 # }
 
 # Compile prizm control

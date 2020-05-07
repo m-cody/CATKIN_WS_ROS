@@ -1,0 +1,15 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~mask_l_hue" : \b [double] mask_l_hue min: 0.0, default: 0.0, max: 255.0
+- \b "~mask_h_hue" : \b [double] mask_h_hue min: 0.0, default: 255.0, max: 255.0
+- \b "~mask_l_sat" : \b [double] mask_l_sat min: 0.0, default: 0.0, max: 255.0
+- \b "~mask_h_sat" : \b [double] mask_h_sat min: 0.0, default: 255.0, max: 255.0
+- \b "~mask_l_lum" : \b [double] mask_l_lum min: 0.0, default: 0.0, max: 255.0
+- \b "~mask_h_lum" : \b [double] mask_h_lum min: 0.0, default: 255.0, max: 255.0
+- \b "~mask_dilate" : \b [double] mask_dilate min: 0.0, default: 0.0, max: 20.0
+- \b "~speed" : \b [double] speed min: 0.0, default: 0.0, max: 4.0
+- \b "~use_median_blur" : \b [bool] use_median_blur min: False, default: True, max: True
+- \b "~median_blur_amount" : \b [int] median_blur_amount min: 0, default: 3, max: 10
+

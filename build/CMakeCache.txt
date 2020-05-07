@@ -424,6 +424,12 @@ simple_camera_publisher_BINARY_DIR:STATIC=/home/ros-student/catkin_ws/build/simp
 //Value Computed by CMake
 simple_camera_publisher_SOURCE_DIR:STATIC=/home/ros-student/catkin_ws/src/simple_camera_publisher
 
+//Value Computed by CMake
+speedometer_BINARY_DIR:STATIC=/home/ros-student/catkin_ws/build/speedometer
+
+//Value Computed by CMake
+speedometer_SOURCE_DIR:STATIC=/home/ros-student/catkin_ws/src/speedometer
+
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/kinetic/share/std_msgs/cmake
 
@@ -552,7 +558,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=11
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=12
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

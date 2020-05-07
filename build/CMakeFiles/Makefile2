@@ -246,7 +246,7 @@ gtest/preinstall: gtest/gtest/preinstall
 gtest/CMakeFiles/gmock.dir/all:
 	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/depend
 	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=3,4,5 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=5,6,7 "Built target gmock"
 .PHONY : gtest/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
@@ -278,7 +278,7 @@ clean: gtest/CMakeFiles/gmock.dir/clean
 gtest/CMakeFiles/gmock_main.dir/all:
 	$(MAKE) -f gtest/CMakeFiles/gmock_main.dir/build.make gtest/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) -f gtest/CMakeFiles/gmock_main.dir/build.make gtest/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=6,7,8,9 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=8,9,10,11 "Built target gmock_main"
 .PHONY : gtest/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
@@ -329,7 +329,7 @@ gtest/gtest/preinstall:
 gtest/gtest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=12,13 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=14,15 "Built target gtest"
 .PHONY : gtest/gtest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
@@ -361,7 +361,7 @@ clean: gtest/gtest/CMakeFiles/gtest.dir/clean
 gtest/gtest/CMakeFiles/gtest_main.dir/all: gtest/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest_main.dir/build.make gtest/gtest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest_main.dir/build.make gtest/gtest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=14,15 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=16,17 "Built target gtest_main"
 .PHONY : gtest/gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
@@ -472,7 +472,7 @@ my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/all: my_ros_msgs/CMa
 my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/all: my_ros_msgs/CMakeFiles/_my_ros_msgs_generate_messages_check_deps_my_IoT.dir/all
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=51,52,53 "Built target my_ros_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=53,54,55 "Built target my_ros_msgs_generate_messages_py"
 .PHONY : my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
@@ -570,7 +570,7 @@ my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/all: my_ros_msgs/C
 my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/all: my_ros_msgs/CMakeFiles/_my_ros_msgs_generate_messages_check_deps_my_IoT.dir/all
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=47,48 "Built target my_ros_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=49,50 "Built target my_ros_msgs_generate_messages_lisp"
 .PHONY : my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -956,7 +956,7 @@ my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/all: my_ros_msgs
 my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/all: my_ros_msgs/CMakeFiles/_my_ros_msgs_generate_messages_check_deps_my_IoT.dir/all
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=49,50 "Built target my_ros_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=51,52 "Built target my_ros_msgs_generate_messages_nodejs"
 .PHONY : my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
@@ -990,7 +990,7 @@ my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/all: my_ros_msgs/CM
 my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/all: my_ros_msgs/CMakeFiles/_my_ros_msgs_generate_messages_check_deps_my_IoT.dir/all
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=44,45,46 "Built target my_ros_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=46,47,48 "Built target my_ros_msgs_generate_messages_eus"
 .PHONY : my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1257,7 +1257,7 @@ my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/all: my_ros_msgs/CM
 my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/all: my_ros_msgs/CMakeFiles/_my_ros_msgs_generate_messages_check_deps_my_IoT.dir/all
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/build.make my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=42,43 "Built target my_ros_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=44,45 "Built target my_ros_msgs_generate_messages_cpp"
 .PHONY : my_ros_msgs/CMakeFiles/my_ros_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1395,7 +1395,7 @@ my_ros_tutorials/preinstall:
 my_ros_tutorials/CMakeFiles/hw3_led.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw3_led.dir/build.make my_ros_tutorials/CMakeFiles/hw3_led.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw3_led.dir/build.make my_ros_tutorials/CMakeFiles/hw3_led.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=34,35 "Built target hw3_led"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=36,37 "Built target hw3_led"
 .PHONY : my_ros_tutorials/CMakeFiles/hw3_led.dir/all
 
 # Include target in all.
@@ -1432,7 +1432,7 @@ clean: my_ros_tutorials/CMakeFiles/hw3_led.dir/clean
 my_ros_tutorials/CMakeFiles/hw2_changer.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_changer.dir/build.make my_ros_tutorials/CMakeFiles/hw2_changer.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_changer.dir/build.make my_ros_tutorials/CMakeFiles/hw2_changer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=28,29 "Built target hw2_changer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=30,31 "Built target hw2_changer"
 .PHONY : my_ros_tutorials/CMakeFiles/hw2_changer.dir/all
 
 # Include target in all.
@@ -1469,7 +1469,7 @@ clean: my_ros_tutorials/CMakeFiles/hw2_changer.dir/clean
 my_ros_tutorials/CMakeFiles/hw2_pub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_pub.dir/build.make my_ros_tutorials/CMakeFiles/hw2_pub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_pub.dir/build.make my_ros_tutorials/CMakeFiles/hw2_pub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=30,31 "Built target hw2_pub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=32,33 "Built target hw2_pub"
 .PHONY : my_ros_tutorials/CMakeFiles/hw2_pub.dir/all
 
 # Include target in all.
@@ -1506,7 +1506,7 @@ clean: my_ros_tutorials/CMakeFiles/hw2_pub.dir/clean
 my_ros_tutorials/CMakeFiles/news_pub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_pub.dir/build.make my_ros_tutorials/CMakeFiles/news_pub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_pub.dir/build.make my_ros_tutorials/CMakeFiles/news_pub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=54,55 "Built target news_pub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=56,57 "Built target news_pub"
 .PHONY : my_ros_tutorials/CMakeFiles/news_pub.dir/all
 
 # Include target in all.
@@ -1543,7 +1543,7 @@ clean: my_ros_tutorials/CMakeFiles/news_pub.dir/clean
 my_ros_tutorials/CMakeFiles/hw0_string_node.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw0_string_node.dir/build.make my_ros_tutorials/CMakeFiles/hw0_string_node.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw0_string_node.dir/build.make my_ros_tutorials/CMakeFiles/hw0_string_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=20,21 "Built target hw0_string_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=22,23 "Built target hw0_string_node"
 .PHONY : my_ros_tutorials/CMakeFiles/hw0_string_node.dir/all
 
 # Include target in all.
@@ -1580,7 +1580,7 @@ clean: my_ros_tutorials/CMakeFiles/hw0_string_node.dir/clean
 my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/build.make my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/build.make my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=18,19 "Built target hellos_cpp_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=20,21 "Built target hellos_cpp_node"
 .PHONY : my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/all
 
 # Include target in all.
@@ -1617,7 +1617,7 @@ clean: my_ros_tutorials/CMakeFiles/hellos_cpp_node.dir/clean
 my_ros_tutorials/CMakeFiles/news_sub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_sub.dir/build.make my_ros_tutorials/CMakeFiles/news_sub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_sub.dir/build.make my_ros_tutorials/CMakeFiles/news_sub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=58,59 "Built target news_sub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=60,61 "Built target news_sub"
 .PHONY : my_ros_tutorials/CMakeFiles/news_sub.dir/all
 
 # Include target in all.
@@ -1654,7 +1654,7 @@ clean: my_ros_tutorials/CMakeFiles/news_sub.dir/clean
 my_ros_tutorials/CMakeFiles/hw1_pub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_pub.dir/build.make my_ros_tutorials/CMakeFiles/hw1_pub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_pub.dir/build.make my_ros_tutorials/CMakeFiles/hw1_pub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=24,25 "Built target hw1_pub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=26,27 "Built target hw1_pub"
 .PHONY : my_ros_tutorials/CMakeFiles/hw1_pub.dir/all
 
 # Include target in all.
@@ -1691,7 +1691,7 @@ clean: my_ros_tutorials/CMakeFiles/hw1_pub.dir/clean
 my_ros_tutorials/CMakeFiles/news_pub2.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_pub2.dir/build.make my_ros_tutorials/CMakeFiles/news_pub2.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/news_pub2.dir/build.make my_ros_tutorials/CMakeFiles/news_pub2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=56,57 "Built target news_pub2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=58,59 "Built target news_pub2"
 .PHONY : my_ros_tutorials/CMakeFiles/news_pub2.dir/all
 
 # Include target in all.
@@ -1728,7 +1728,7 @@ clean: my_ros_tutorials/CMakeFiles/news_pub2.dir/clean
 my_ros_tutorials/CMakeFiles/hw2_sub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_sub.dir/build.make my_ros_tutorials/CMakeFiles/hw2_sub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw2_sub.dir/build.make my_ros_tutorials/CMakeFiles/hw2_sub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=32,33 "Built target hw2_sub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=34,35 "Built target hw2_sub"
 .PHONY : my_ros_tutorials/CMakeFiles/hw2_sub.dir/all
 
 # Include target in all.
@@ -1765,7 +1765,7 @@ clean: my_ros_tutorials/CMakeFiles/hw2_sub.dir/clean
 my_ros_tutorials/CMakeFiles/hw1_sub.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_sub.dir/build.make my_ros_tutorials/CMakeFiles/hw1_sub.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_sub.dir/build.make my_ros_tutorials/CMakeFiles/hw1_sub.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=26,27 "Built target hw1_sub"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=28,29 "Built target hw1_sub"
 .PHONY : my_ros_tutorials/CMakeFiles/hw1_sub.dir/all
 
 # Include target in all.
@@ -1802,7 +1802,7 @@ clean: my_ros_tutorials/CMakeFiles/hw1_sub.dir/clean
 my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/build.make my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/build.make my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=16,17 "Built target hello_cpp_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=18,19 "Built target hello_cpp_node"
 .PHONY : my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/all
 
 # Include target in all.
@@ -1839,7 +1839,7 @@ clean: my_ros_tutorials/CMakeFiles/hello_cpp_node.dir/clean
 my_ros_tutorials/CMakeFiles/hw1_changer.dir/all:
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_changer.dir/build.make my_ros_tutorials/CMakeFiles/hw1_changer.dir/depend
 	$(MAKE) -f my_ros_tutorials/CMakeFiles/hw1_changer.dir/build.make my_ros_tutorials/CMakeFiles/hw1_changer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=22,23 "Built target hw1_changer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=24,25 "Built target hw1_changer"
 .PHONY : my_ros_tutorials/CMakeFiles/hw1_changer.dir/all
 
 # Include target in all.
@@ -1997,7 +1997,7 @@ clean: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/clean
 prizm_ros/CMakeFiles/led_sim.dir/all:
 	$(MAKE) -f prizm_ros/CMakeFiles/led_sim.dir/build.make prizm_ros/CMakeFiles/led_sim.dir/depend
 	$(MAKE) -f prizm_ros/CMakeFiles/led_sim.dir/build.make prizm_ros/CMakeFiles/led_sim.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=40,41 "Built target led_sim"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=42,43 "Built target led_sim"
 .PHONY : prizm_ros/CMakeFiles/led_sim.dir/all
 
 # Include target in all.
@@ -2098,7 +2098,7 @@ clean: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_eus.dir/clean
 prizm_ros/CMakeFiles/twist_controller.dir/all:
 	$(MAKE) -f prizm_ros/CMakeFiles/twist_controller.dir/build.make prizm_ros/CMakeFiles/twist_controller.dir/depend
 	$(MAKE) -f prizm_ros/CMakeFiles/twist_controller.dir/build.make prizm_ros/CMakeFiles/twist_controller.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=67,68 "Built target twist_controller"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=74,75 "Built target twist_controller"
 .PHONY : prizm_ros/CMakeFiles/twist_controller.dir/all
 
 # Include target in all.
@@ -2129,6 +2129,75 @@ clean: prizm_ros/CMakeFiles/twist_controller.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory speedometer
+
+# Convenience name for "all" pass in the directory.
+speedometer/all: speedometer/CMakeFiles/speedometer.dir/all
+
+.PHONY : speedometer/all
+
+# Convenience name for "clean" pass in the directory.
+speedometer/clean: speedometer/CMakeFiles/speedometer.dir/clean
+
+.PHONY : speedometer/clean
+
+# Convenience name for "preinstall" pass in the directory.
+speedometer/preinstall:
+
+.PHONY : speedometer/preinstall
+
+#=============================================================================
+# Target rules for target speedometer/CMakeFiles/speedometer.dir
+
+# All Build rule for target.
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_py.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_cpp.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_eus.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_lisp.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
+speedometer/CMakeFiles/speedometer.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
+	$(MAKE) -f speedometer/CMakeFiles/speedometer.dir/build.make speedometer/CMakeFiles/speedometer.dir/depend
+	$(MAKE) -f speedometer/CMakeFiles/speedometer.dir/build.make speedometer/CMakeFiles/speedometer.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=65,66 "Built target speedometer"
+.PHONY : speedometer/CMakeFiles/speedometer.dir/all
+
+# Include target in all.
+all: speedometer/CMakeFiles/speedometer.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+speedometer/CMakeFiles/speedometer.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 speedometer/CMakeFiles/speedometer.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : speedometer/CMakeFiles/speedometer.dir/rule
+
+# Convenience name for target.
+speedometer: speedometer/CMakeFiles/speedometer.dir/rule
+
+.PHONY : speedometer
+
+# clean rule for target.
+speedometer/CMakeFiles/speedometer.dir/clean:
+	$(MAKE) -f speedometer/CMakeFiles/speedometer.dir/build.make speedometer/CMakeFiles/speedometer.dir/clean
+.PHONY : speedometer/CMakeFiles/speedometer.dir/clean
+
+# clean rule for target.
+clean: speedometer/CMakeFiles/speedometer.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Directory level rules for directory tiny_keyboard_reader
 
 # Convenience name for "all" pass in the directory.
@@ -2150,12 +2219,29 @@ tiny_keyboard_reader/preinstall:
 # Directory level rules for directory prizm-control-hw-m-cody
 
 # Convenience name for "all" pass in the directory.
+prizm-control-hw-m-cody/all: prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all
+prizm-control-hw-m-cody/all: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+prizm-control-hw-m-cody/all: prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all
 prizm-control-hw-m-cody/all: prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/all
 prizm-control-hw-m-cody/all: prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/all
 
 .PHONY : prizm-control-hw-m-cody/all
 
 # Convenience name for "clean" pass in the directory.
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/clean
+prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/clean
 prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/clean
 prizm-control-hw-m-cody/clean: prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/clean
 
@@ -2167,13 +2253,538 @@ prizm-control-hw-m-cody/preinstall:
 .PHONY : prizm-control-hw-m-cody/preinstall
 
 #=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_py"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_generate_messages_py: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
+
+.PHONY : dynamic_reconfigure_generate_messages_py
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/build.make prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/build.make prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=3,4 "Built target follow_blue_line"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all
+
+# Include target in all.
+all: prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/rule
+
+# Convenience name for target.
+follow_blue_line: prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/rule
+
+.PHONY : follow_blue_line
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/build.make prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/follow_blue_line.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_nodejs"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_generate_messages_nodejs: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule
+
+.PHONY : dynamic_reconfigure_generate_messages_nodejs
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_lisp"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_generate_messages_lisp: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
+
+.PHONY : dynamic_reconfigure_generate_messages_lisp
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_cpp"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_cpp: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+
+.PHONY : sensor_msgs_generate_messages_cpp
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_lisp"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_lisp: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+
+.PHONY : sensor_msgs_generate_messages_lisp
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_cpp"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_generate_messages_cpp: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
+
+.PHONY : dynamic_reconfigure_generate_messages_cpp
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_eus"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_generate_messages_eus: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule
+
+.PHONY : dynamic_reconfigure_generate_messages_eus
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_py"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_py: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+
+.PHONY : sensor_msgs_generate_messages_py
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_eus"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_eus: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
+
+.PHONY : sensor_msgs_generate_messages_eus
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_nodejs"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_nodejs: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
+
+.PHONY : sensor_msgs_generate_messages_nodejs
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_gencfg"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
+
+# Convenience name for target.
+dynamic_reconfigure_gencfg: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
+
+.PHONY : dynamic_reconfigure_gencfg
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=62 "Built target prizm_control_gencfg"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+
+# Include target in all.
+all: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/rule
+
+# Convenience name for target.
+prizm_control_gencfg: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/rule
+
+.PHONY : prizm_control_gencfg
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/build.make prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir
+
+# All Build rule for target.
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/prizm_control_gencfg.dir/all
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/build.make prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/depend
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/build.make prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=67,68 "Built target stop_on_white"
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all
+
+# Include target in all.
+all: prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/rule
+
+# Convenience name for target.
+stop_on_white: prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/rule
+
+.PHONY : stop_on_white
+
+# clean rule for target.
+prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/clean:
+	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/build.make prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/clean
+.PHONY : prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/clean
+
+# clean rule for target.
+clean: prizm-control-hw-m-cody/CMakeFiles/stop_on_white.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir
 
 # All Build rule for target.
 prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/all:
 	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/build.make prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/depend
 	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/build.make prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=60,61 "Built target prizm_control_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=63,64 "Built target prizm_control_node"
 .PHONY : prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/all
 
 # Include target in all.
@@ -2210,7 +2821,7 @@ clean: prizm-control-hw-m-cody/CMakeFiles/prizm_control_node.dir/clean
 prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/all:
 	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/build.make prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/depend
 	$(MAKE) -f prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/build.make prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=38,39 "Built target joy_control_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=40,41 "Built target joy_control_node"
 .PHONY : prizm-control-hw-m-cody/CMakeFiles/joy_control_node.dir/all
 
 # Include target in all.
@@ -2249,11 +2860,6 @@ simple_camera_publisher/all: simple_camera_publisher/CMakeFiles/cam_pub.dir/all
 .PHONY : simple_camera_publisher/all
 
 # Convenience name for "clean" pass in the directory.
-simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
-simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
-simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
-simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
-simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
 simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/cam_pub.dir/clean
 
 .PHONY : simple_camera_publisher/clean
@@ -2262,166 +2868,6 @@ simple_camera_publisher/clean: simple_camera_publisher/CMakeFiles/cam_pub.dir/cl
 simple_camera_publisher/preinstall:
 
 .PHONY : simple_camera_publisher/preinstall
-
-#=============================================================================
-# Target rules for target simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir
-
-# All Build rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/depend
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_eus"
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
-
-# Build rule for subdir invocation for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_eus: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
-
-.PHONY : sensor_msgs_generate_messages_eus
-
-# clean rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
-
-# clean rule for target.
-clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir
-
-# All Build rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/all:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/depend
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_py"
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
-
-# Build rule for subdir invocation for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_py: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-
-.PHONY : sensor_msgs_generate_messages_py
-
-# clean rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
-
-# clean rule for target.
-clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir
-
-# All Build rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/depend
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_nodejs"
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
-
-# Build rule for subdir invocation for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_nodejs: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
-
-.PHONY : sensor_msgs_generate_messages_nodejs
-
-# clean rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
-
-# clean rule for target.
-clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir
-
-# All Build rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/depend
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_lisp"
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
-
-# Build rule for subdir invocation for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_lisp: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-
-.PHONY : sensor_msgs_generate_messages_lisp
-
-# clean rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
-
-# clean rule for target.
-clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
-
-# All Build rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/depend
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target sensor_msgs_generate_messages_cpp"
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
-
-# Build rule for subdir invocation for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_cpp: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-
-.PHONY : sensor_msgs_generate_messages_cpp
-
-# clean rule for target.
-simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean:
-	$(MAKE) -f simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
-.PHONY : simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
-
-# clean rule for target.
-clean: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
-
-.PHONY : clean
 
 #=============================================================================
 # Target rules for target simple_camera_publisher/CMakeFiles/cam_pub.dir
@@ -2464,20 +2910,14 @@ clean: simple_camera_publisher/CMakeFiles/cam_pub.dir/clean
 # Directory level rules for directory stop_on_white
 
 # Convenience name for "all" pass in the directory.
+stop_on_white/all: stop_on_white/CMakeFiles/stop_white.dir/all
 stop_on_white/all: stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/all
-stop_on_white/all: stop_on_white/CMakeFiles/stop_on_white.dir/all
 
 .PHONY : stop_on_white/all
 
 # Convenience name for "clean" pass in the directory.
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+stop_on_white/clean: stop_on_white/CMakeFiles/stop_white.dir/clean
 stop_on_white/clean: stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
-stop_on_white/clean: stop_on_white/CMakeFiles/stop_on_white.dir/clean
 
 .PHONY : stop_on_white/clean
 
@@ -2487,162 +2927,70 @@ stop_on_white/preinstall:
 .PHONY : stop_on_white/preinstall
 
 #=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir
+# Target rules for target stop_on_white/CMakeFiles/stop_white.dir
 
 # All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_lisp"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: prizm-control-hw-m-cody/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
+stop_on_white/CMakeFiles/stop_white.dir/all: stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/all
+	$(MAKE) -f stop_on_white/CMakeFiles/stop_white.dir/build.make stop_on_white/CMakeFiles/stop_white.dir/depend
+	$(MAKE) -f stop_on_white/CMakeFiles/stop_white.dir/build.make stop_on_white/CMakeFiles/stop_white.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=70,71 "Built target stop_white"
+.PHONY : stop_on_white/CMakeFiles/stop_white.dir/all
+
+# Include target in all.
+all: stop_on_white/CMakeFiles/stop_white.dir/all
+
+.PHONY : all
 
 # Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule: cmake_check_build_system
+stop_on_white/CMakeFiles/stop_white.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/stop_white.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
+.PHONY : stop_on_white/CMakeFiles/stop_white.dir/rule
 
 # Convenience name for target.
-dynamic_reconfigure_generate_messages_lisp: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
+stop_white: stop_on_white/CMakeFiles/stop_white.dir/rule
 
-.PHONY : dynamic_reconfigure_generate_messages_lisp
-
-# clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
+.PHONY : stop_white
 
 # clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_eus"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_eus: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/rule
-
-.PHONY : dynamic_reconfigure_generate_messages_eus
+stop_on_white/CMakeFiles/stop_white.dir/clean:
+	$(MAKE) -f stop_on_white/CMakeFiles/stop_white.dir/build.make stop_on_white/CMakeFiles/stop_white.dir/clean
+.PHONY : stop_on_white/CMakeFiles/stop_white.dir/clean
 
 # clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_nodejs"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_nodejs: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/rule
-
-.PHONY : dynamic_reconfigure_generate_messages_nodejs
-
-# clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_py"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_py: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
-
-.PHONY : dynamic_reconfigure_generate_messages_py
-
-# clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_gencfg"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_gencfg: stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
-
-.PHONY : dynamic_reconfigure_gencfg
-
-# clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
+clean: stop_on_white/CMakeFiles/stop_white.dir/clean
 
 .PHONY : clean
 
@@ -2653,7 +3001,7 @@ clean: stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
 stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/all:
 	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/build.make stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/depend
 	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/build.make stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=64 "Built target stop_on_white_gencfg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=69 "Built target stop_on_white_gencfg"
 .PHONY : stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/all
 
 # Include target in all.
@@ -2680,106 +3028,6 @@ stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/clean:
 
 # clean rule for target.
 clean: stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num= "Built target dynamic_reconfigure_generate_messages_cpp"
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_cpp: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
-
-.PHONY : dynamic_reconfigure_generate_messages_cpp
-
-# clean rule for target.
-stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
-.PHONY : stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target stop_on_white/CMakeFiles/stop_on_white.dir
-
-# All Build rule for target.
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_cpp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/roscpp_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: my_ros_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: prizm_ros/CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: simple_camera_publisher/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_nodejs.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_gencfg.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/stop_on_white_gencfg.dir/all
-stop_on_white/CMakeFiles/stop_on_white.dir/all: stop_on_white/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/all
-	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white.dir/build.make stop_on_white/CMakeFiles/stop_on_white.dir/depend
-	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white.dir/build.make stop_on_white/CMakeFiles/stop_on_white.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=62,63 "Built target stop_on_white"
-.PHONY : stop_on_white/CMakeFiles/stop_on_white.dir/all
-
-# Include target in all.
-all: stop_on_white/CMakeFiles/stop_on_white.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-stop_on_white/CMakeFiles/stop_on_white.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 stop_on_white/CMakeFiles/stop_on_white.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ros-student/catkin_ws/build/CMakeFiles 0
-.PHONY : stop_on_white/CMakeFiles/stop_on_white.dir/rule
-
-# Convenience name for target.
-stop_on_white: stop_on_white/CMakeFiles/stop_on_white.dir/rule
-
-.PHONY : stop_on_white
-
-# clean rule for target.
-stop_on_white/CMakeFiles/stop_on_white.dir/clean:
-	$(MAKE) -f stop_on_white/CMakeFiles/stop_on_white.dir/build.make stop_on_white/CMakeFiles/stop_on_white.dir/clean
-.PHONY : stop_on_white/CMakeFiles/stop_on_white.dir/clean
-
-# clean rule for target.
-clean: stop_on_white/CMakeFiles/stop_on_white.dir/clean
 
 .PHONY : clean
 
@@ -2812,7 +3060,7 @@ turtle_ocean/preinstall:
 turtle_ocean/CMakeFiles/turtle0.dir/all:
 	$(MAKE) -f turtle_ocean/CMakeFiles/turtle0.dir/build.make turtle_ocean/CMakeFiles/turtle0.dir/depend
 	$(MAKE) -f turtle_ocean/CMakeFiles/turtle0.dir/build.make turtle_ocean/CMakeFiles/turtle0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=65,66 "Built target turtle0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=72,73 "Built target turtle0"
 .PHONY : turtle_ocean/CMakeFiles/turtle0.dir/all
 
 # Include target in all.
@@ -2849,7 +3097,7 @@ clean: turtle_ocean/CMakeFiles/turtle0.dir/clean
 turtle_ocean/CMakeFiles/input_xy_node.dir/all:
 	$(MAKE) -f turtle_ocean/CMakeFiles/input_xy_node.dir/build.make turtle_ocean/CMakeFiles/input_xy_node.dir/depend
 	$(MAKE) -f turtle_ocean/CMakeFiles/input_xy_node.dir/build.make turtle_ocean/CMakeFiles/input_xy_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=36,37 "Built target input_xy_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=38,39 "Built target input_xy_node"
 .PHONY : turtle_ocean/CMakeFiles/input_xy_node.dir/all
 
 # Include target in all.
@@ -2886,7 +3134,7 @@ clean: turtle_ocean/CMakeFiles/input_xy_node.dir/clean
 turtle_ocean/CMakeFiles/go2xy_node.dir/all:
 	$(MAKE) -f turtle_ocean/CMakeFiles/go2xy_node.dir/build.make turtle_ocean/CMakeFiles/go2xy_node.dir/depend
 	$(MAKE) -f turtle_ocean/CMakeFiles/go2xy_node.dir/build.make turtle_ocean/CMakeFiles/go2xy_node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=10,11 "Built target go2xy_node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ros-student/catkin_ws/build/CMakeFiles --progress-num=12,13 "Built target go2xy_node"
 .PHONY : turtle_ocean/CMakeFiles/go2xy_node.dir/all
 
 # Include target in all.
